@@ -10,3 +10,5 @@ temp
 .m2
 .idea
 *.iml
+.project
+.settings/*
